@@ -1,7 +1,3 @@
-/**
- * Note: Supplied by the factulty,
- *       i.e. not written by me (dzejrou).
- */
 #include "du1matrix.hpp"
 #include "du1debug.hpp"
 
