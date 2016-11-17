@@ -1,3 +1,7 @@
+/**
+ * Note: Supplied by the factulty,
+ *       i.e. not written by me (dzejrou).
+ */
 #ifndef du1debug_hpp_
 #define du1debug_hpp_
 
